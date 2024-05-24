@@ -1,0 +1,5 @@
+# class is to object as blueprint is to house
+
+//idempotent - mini homework assignment//
+
+# application in software is an user interface
